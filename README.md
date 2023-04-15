@@ -15,21 +15,22 @@ This portfolio includes 3D models of the following PCBs that I have designed and
 
 ## Preview
 Below are 3D models of the PCB designs created by the M.I.A team:
-
+ <!-- 4 pics at row -->
+<!--
 |  |  |  |  |
 | ------- | ------- | ------- | ------- |
 | <img src='./base-1/base-1.png' width='200' /> | <img src='./dababa/dababa.png' width='200' /> | <img src='./due/due.png' width='200' /> | <img src='./main_power/main_power.png' width='200' /> |
 | <img src='./main_stm/main_stm.png' width='200' /> | <img src='./nano-master/nano-master.png' width='200' /> | <img src='./NEMOTIC HORSE/nemotic-horse.png' width='200' /> | <img src='./piston_stm/piston_stm.png' width='200' /> |
 | <img src='./power-distribution/power-distribution.png' width='200' /> | <img src='./ps2/ps2.png' width='200' /> | <img src='./stm_shild/stm_shild.png' width='200' /> | <img src='./tiva-c/tiva-c.png' width='200' /> |
+-->
 
-
-
+ <!-- 3 pics at row -->
 |  |  |  |
 | ------- | ------- | ------- |
-| <img src='./base-1/base-1.png' width='200' /> | <img src='./dababa/dababa.png' width='200' /> | <img src='./due/due.png' width='200' /> |
-| <img src='./main_power/main_power.png' width='200' /> | <img src='./main_stm/main_stm.png' width='200' /> | <img src='./nano-master/nano-master.png' width='200' /> |
-| <img src='./NEMOTIC HORSE/nemotic-horse.png' width='200' /> | <img src='./piston_stm/piston_stm.png' width='200' /> | <img src='./power-distribution/power-distribution.png' width='200' /> |
-| <img src='./ps2/ps2.png' width='200' /> | <img src='./stm_shild/stm_shild.png' width='200' /> | <img src='./tiva-c/tiva-c.png' width='200' /> |
+| <img src='./base-1/base-1.png' width='300' /> | <img src='./dababa/dababa.png' width='300' /> | <img src='./due/due.png' width='300' /> |
+| <img src='./main_power/main_power.png' width='300' /> | <img src='./main_stm/main_stm.png' width='300' /> | <img src='./nano-master/nano-master.png' width='300' /> |
+| <img src='./NEMOTIC HORSE/nemotic-horse.png' width='300' /> | <img src='./piston_stm/piston_stm.png' width='300' /> | <img src='./power-distribution/power-distribution.png' width='300' /> |
+| <img src='./ps2/ps2.png' width='300' /> | <img src='./stm_shild/stm_shild.png' width='300' /> | <img src='./tiva-c/tiva-c.png' width='300' /> |
 
 ## Contact
 If you are interested in my services for your next PCB design and fabrication project, please feel free to contact me.
