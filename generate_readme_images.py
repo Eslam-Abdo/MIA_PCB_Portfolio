@@ -24,7 +24,7 @@ def generate_image_markdown(num_cols, root_dir):
             index = i * num_cols + j
             if index < num_images:
                 image = images[index]
-                markdown += f" <img src='{image}' width='200' /> |"
+                markdown += f" <img src='{image}' width='300' /> |"
             else:
                 markdown += " |"
         markdown += "\n"
