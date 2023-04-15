@@ -32,7 +32,7 @@ Below are 3D models of the PCB designs created by the M.I.A team:
 | <img src='./main_stm/main_stm.png' width='300' /> | <img src='./nano-master/nano-master.png' width='300' /> | <img src='./base-1/base-1.png' width='300' /> | <img src='./main_power/main_power.png' width='300' /> |
 | <img src='./cytron-motor-driver/without heatsink/cytron-last-version-without-heatsink.png' width='300' /> | <img src='./cytron-motor-driver/cytron-last-version.png' width='300' /> |  <img src='./motor-driver-30A-relays/f.motor-driver-30A-relays.jpeg' width='300' /> | <img src='./cytron-motor-driver/f.cytron-1.jpg' width='300' /> |
 | <img src='./cytron-motor-driver/f.cytron-2.jpg' width='300' /> | <img src='./cytron-motor-driver/f.cytron-3.jpg' width='300' /> | <img src='./base pcb  verisins/fbase-2.png' width='300' /> | <img src='./base-1/f.base-1.jpeg' width='300' /> |
-| <img src='./power-distribution/f.power-distribution.jpeg' width='300' /> | <img src='./battery/f.battery.jpg' width='300' /> | <img src='./ps2/f.ps2.jpg' width='300' /> |
+| <img src='./power-distribution/f.power-distribution.jpeg' width='300' /> | <img src='./battery/f.battery.jpg' width='300' /> | <img src='./cytron-motor-driver/cytron-v1.jpeg' width='300' /> | <img src='./ps2/f.ps2.jpg' width='300' /> |
 
 ## Contact
 If you are interested in my services for your next PCB design and fabrication project, please feel free to contact me.
